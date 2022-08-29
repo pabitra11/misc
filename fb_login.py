@@ -31,8 +31,8 @@ def scroll_down():
 
 
 
-username = "9733940623"
-password = "P@p@y9733940623"
+username = "*******"
+password = "*******"
 options = Options()
 options.set_preference("dom.webnotifications.enabled", False)
 driver = webdriver.Firefox(options = options)
